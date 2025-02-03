@@ -114,6 +114,8 @@
                 "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1723894859",
                 description:
                 "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+                link:"https://mega.nz/folder/krIi1YaS#0bFmWXgiCvwZvLMXLwgT9g",
+                links:"link",
             },
             {
                 id: Math.random(),
